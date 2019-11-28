@@ -28,6 +28,3 @@ for i in range(0,l):
 	
 
 
-# WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
-
-#natas16" and substring(password,1,1)="W" -- 
